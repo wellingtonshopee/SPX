@@ -4,7 +4,7 @@ pytz
 requests
 feedparser
 openpyxl
-sycopg2
+psycopg2
 BeautifulSoup
 random 
 bs4
