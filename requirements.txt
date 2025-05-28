@@ -5,7 +5,7 @@ requests
 feedparser
 openpyxl
 psycopg2-binary
-BeautifulSoup
+beautifulsoup4
 random 
 bs4
 BytesIO
